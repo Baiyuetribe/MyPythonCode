@@ -18,4 +18,10 @@ python onedrivedl.py https://cloud.baiyue.one/?/Blog_videos/
 python onedrivedl.py 云盘地址
 ```
 
+如需显示下载进度条，请使用如下第二个脚本
+
+```
+python onedrivedl2.py 云盘地址
+```
+
 更多细节参考： https://baiyue.one/archives/1529.html
